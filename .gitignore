@@ -1,7 +1,11 @@
-__pycache__/
-*.py[cod]
 *.json
+*.py[cod]
+*.pyc
 .env
-.venv/
-venv/
+.env.*
 .scrip_data.json
+.venv/
+__pycache__/
+dist/*.tmp
+node_modules/
+venv/
